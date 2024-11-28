@@ -19,4 +19,4 @@ console.log(data)
 emailRef.innerHTML = data.email
 }
 
-main()
+main();
